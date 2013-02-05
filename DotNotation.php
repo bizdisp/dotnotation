@@ -1,6 +1,6 @@
 <?php
 /**
- * Dot notation for assecc multidimensional arrays.
+ * Dot notation for access multidimensional arrays.
  * 
  * $dn = new DotNotation(['bar'=>['baz'=>['foo'=>true]]]);
  * 
