@@ -1,10 +1,11 @@
 <?php
-/* (c) Anton Medvedev <anton@elfet.ru>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
+/**
+ * Tests for DotNotation class.
+ * 
+ * @author Anton Medvedev <anton (at) elfet (dot) ru>
+ * @version 2.0
+ * @license MIT
  */
-
 class DotNotationTest extends \PHPUnit_Framework_TestCase
 {
     public function testSet()
