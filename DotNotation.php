@@ -36,7 +36,7 @@ class DotNotation
      * @param string $default
      * @return mixed
      */
-    public function get($path, $default = null)
+    public function get($path = "", $default = null)
     {
         $array = $this->values;
 
