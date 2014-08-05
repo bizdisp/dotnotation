@@ -26,7 +26,7 @@ class DotNotation
     /**
      * @var array
      */
-    public function __construct(array $values)
+    public function __construct(array $values = array())
     {
         $this->values = $values;
     }
